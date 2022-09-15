@@ -1,6 +1,6 @@
 # Área de Lazer
 
-![preview](./.github/preview.png)
+![preview](./preview.png)
 
 > Minha Área de Lazer
 
