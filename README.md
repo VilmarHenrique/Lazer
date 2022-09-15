@@ -1,3 +1,20 @@
-# Lazer
-Minha Área de Lazer
-tey
+# Área de Lazer
+
+![preview](./.github/preview.png)
+
+> Minha Área de Lazer
+
+Projeto construído no evento Next Level Week da Rockeseat.
+
+[Clique aqui para acessar a Área do Lazer] (https://vilmarhenrique.github.io/Lazer/)
+
+
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- Git e Github
+
+## Contato
+
+   vilmarh.andrade@gmail.com
