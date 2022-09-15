@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rockeseat.
 
-[Clique aqui para acessar a Área do Lazer] (https://vilmarhenrique.github.io/Lazer/)
+![Clique aqui para acessar a Área do Lazer] (https://vilmarhenrique.github.io/Lazer/)
 
 
 ## Tecnologias utilizadas
